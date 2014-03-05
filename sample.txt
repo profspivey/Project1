@@ -1,3 +1,5 @@
 This is a sample file. Not sure what's supposed to be in it.
 
 I've added this line to the file.
+
+How about another change?? Will it merge the changes on both sides of the repository?
